@@ -3,3 +3,6 @@ Archivo2.txt
 Esto es el Archivo2 dentro del Repositorio3
 
 Modifico archivo2
+
+Modifico el archivo2 desde Repo2
+es como añadir código a este fichero. 
